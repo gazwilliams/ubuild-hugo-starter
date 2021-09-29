@@ -9,12 +9,12 @@ logo = "/uploads/denim1.jpg"
 template = "simple-header"
 [[page_sections]]
 block = "feature-1"
-content = ""
-headline = ""
+content = "Lorem ipsum"
+headline = "The best mum"
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
-alt_text = ""
-image = ""
+alt_text = "WIDE"
+image = "/uploads/ravswide.jpg"
 
 +++
