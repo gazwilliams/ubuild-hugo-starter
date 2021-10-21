@@ -34,4 +34,5 @@ fields:
   - 4-column-footer
 pages:
 - content/all-available-blocks.md
+- content/ravs-1.md
 - content/ravs.md
