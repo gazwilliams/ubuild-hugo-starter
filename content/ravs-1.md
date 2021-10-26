@@ -8,7 +8,7 @@ block = "header-3"
 logo = "/uploads/ravswide.jpg"
 template = "simple-header"
 [[page_sections]]
-background_image = "/uploads/ravswide.jpg"
+background_image = ""
 block = "hero-2"
 content = "hello world"
 headline = ""
