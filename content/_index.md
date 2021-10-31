@@ -3,6 +3,17 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: navigation-header
+  block: ''
+  logo: ''
+  navigation:
+  - link_url: "/merch"
+    link_text: Merch
+  - link_url: "/xxx"
+    link_text: Hotaction
+  - link_url: "/twitter"
+    link_text: Twitter
+  cta: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/ravswide.jpg"
