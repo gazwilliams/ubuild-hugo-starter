@@ -16,9 +16,9 @@ page_sections:
   - link_url: "/twitter"
     link_text: twitter
   cta:
-    link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
-    open_in_new_tab: true
+    link_url: ''
+    link_text: ''
+    open_in_new_tab: false
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
