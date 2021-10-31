@@ -7,14 +7,14 @@ page_sections:
   block: header-2
   logo: "/uploads/ravswide.jpg"
   navigation:
-  - link_url: "/"
-    link_text: Home
-  - link_url: "#"
-    link_text: Features
-  - link_url: "#"
-    link_text: Pricing
-  - link_url: "#"
-    link_text: Team
+  - link_url: "/merch"
+    link_text: Merch
+  - link_url: "/xxx"
+    link_text: Hot content
+  - link_url: "/linktree"
+    link_text: Linktree
+  - link_url: "/twitter"
+    link_text: twitter
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
